@@ -1,8 +1,8 @@
 import java.util.*;
 import java.io.*;
 import java.lang.*;
-class ex2{
+class ex1{
 public static void main(String args[]){
-System.out.println("This is an example of git java file.");
+System.out.println("This is another example of git java file.");
 }
 }
